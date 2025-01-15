@@ -1,3 +1,5 @@
+# here_we_go_again_reto7_Nicolas_Alejandro_Monroy_Gomez
+
 Para este reto hay que desarrollar estos 9 ejercicios en un notebook de python, creando un programa individual para cada uno. El archivo estara subido en este repo.
 
 **Nota:** Todo el código de aquí en adelante debe ir debidamente documentado.
