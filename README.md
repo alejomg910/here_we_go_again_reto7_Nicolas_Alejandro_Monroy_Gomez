@@ -1,7 +1,4 @@
-# reto7_Nicolas_Alejandro_Monroy_Gomez
-
-## Reto 7
-Desarrolle la mayoría de ejercicios en clase. Para cada punto cree un programa individual asimismo cree un notebook con la solución a todos los problemas. Al finalizar suba todo a un repo y subalo al canal reto_7 en slack.
+Para este reto hay que desarrollar estos 9 ejercicios en un notebook de python, creando un programa individual para cada uno. El archivo estara subido en este repo.
 
 **Nota:** Todo el código de aquí en adelante debe ir debidamente documentado.
 
